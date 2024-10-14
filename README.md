@@ -49,6 +49,8 @@
 
 ###
 
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D5603AQHofHpK-AySwg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726257769512?e=1734566400&v=beta&t=iIw0LIzoHMfS_THsX-vI4rh5BcAT2I3Cs2IAl_jcqL0"  />
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/index?username=yuriolv&show_icons=true&locale=en&layout=compact" alt="yuriolv" /></p>
 
 ###
