@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">An enthusiast of many things, mostly on PCs</h3>
+<h3 align="center">A data and technology enthusiast</h3>
 
 ###
 
