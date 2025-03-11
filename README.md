@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://ibb.co/1f9qnbyH" height="40" alt="bi logo"  />
+  <img src="https://i.ibb.co/3y0Nsk6t/icons8-poder-bi-2021-100.png" height="40" alt="bi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
